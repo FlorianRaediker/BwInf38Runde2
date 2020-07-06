@@ -1,0 +1,7 @@
+digraph "stromrallye4.txt_fields" {
+	compound=true
+	"39_24" [label="39,24
+ic: 20
+free: 39,23;39,22
+swlolw: none" fillcolor=green pos="109.19999999999999,212.79999999999998!" style=filled]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="303.0" version="1.1" width="603.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="300" stroke="#aaaaaa" stroke-width="3.0" width="600" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="500" x2="500" y1="0" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="600" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="600" y1="200" y2="200"/>
+    </g>
+    <circle cx="350.0" cy="150.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="150.0">4</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="116.66666666666666">3,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="150.0">6</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="116.66666666666666">2,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="50.0">7</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="16.666666666666664">5,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="250.0">4</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="216.66666666666666">2,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="150.0">1</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="116.66666666666666">1,1</text>
+    <polyline fill="none" points="372.08662829462304,169.8784335427149 238.34506260909097,160.48168657572398 169.60126447057257,169.82906517303007 271.338001845957,150.08370428839228 247.26435195491598,242.23549122026935 130.83686811879272,236.03577613693932 173.9345967017556,166.7081424530266 161.55748556672467,42.87115890752921 273.400946356649,43.12506700912405 335.4557859090813,55.128085611720635 460.8295233257335,51.08290805597184 528.0026972155002,34.05251621332696 452.7492202063571,73.1451742556182 347.62208370827824,63.60337478428562 268.3501186332405,59.68303934138851 173.6932949119552,60.311173055884225 141.8101489168576,161.5923447223563 133.97386981854,241.06329968839225 266.4277284829384,239.55351133470475 169.2862011011644,269.8662881793949 128.57396192257295,127.57608695343615 155.15844124158494,27.11158523450483 234.6431488120749,66.22776680146202" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="369.77591564409033,156.623465430277 345.0761661698851,71.33915607284311 336.0318245402458,151.17068591875426 271.15731728393365,169.39695225464123 358.6106368591671,137.0739757938803 458.1626241926993,167.84114294997534 535.6548456966559,132.90093985100407 557.5186404527072,25.017198305457313 457.37837026444646,67.99526303281374 345.7864472404336,58.65355487517047 253.046930403087,44.06125363781989 226.36195918984112,133.37436165084523 225.00966717308714,247.42745101971866 163.99095224789954,227.3115566109202 55.73225755553223,242.88910689054978 33.38775077684949,130.45811368152886 138.5519114951599,164.06337712386966 239.6830520668325,145.288168321111" stroke="seagreen" stroke-width="3"/>
+  </g>
+</svg>

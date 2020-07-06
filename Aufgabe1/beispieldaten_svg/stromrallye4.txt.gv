@@ -1,0 +1,9 @@
+digraph "stromrallye4.txt" {
+	compound=true
+	subgraph cluster39_24 {
+		label="39,24"
+		battery39_24_0 [label="0,-1" pos="109.19999999999999,212.79999999999998!"]
+		battery39_24_20 [label="20,0" fillcolor=green pos="110.19999999999999,212.79999999999998!" style=filled]
+	}
+	battery39_24_0 -> battery39_24_20 [label=0 color=orange fillcolor=orange]
+}

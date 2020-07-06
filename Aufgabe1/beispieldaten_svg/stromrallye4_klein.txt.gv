@@ -1,0 +1,9 @@
+digraph "stromrallye4_klein.txt" {
+	compound=true
+	subgraph cluster0_1 {
+		label="0,1"
+		battery0_1_0 [label="0,-1" pos="0.0,2.8!"]
+		battery0_1_20 [label="20,0" fillcolor=green pos="1.0,2.8!" style=filled]
+	}
+	battery0_1_0 -> battery0_1_20 [label=0 color=orange fillcolor=orange]
+}

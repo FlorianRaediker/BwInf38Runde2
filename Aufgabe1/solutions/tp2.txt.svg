@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="103.0" version="1.1" width="403.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="100" stroke="#aaaaaa" stroke-width="3.0" width="400" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="100"/>
+    </g>
+    <circle cx="50.0" cy="50.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="50.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="16.666666666666664">0,0</text>
+    <circle cx="250.0" cy="50.0" fill="none" r="38.0" stroke="black" stroke-width="2.0"/>
+    <circle cx="250.0" cy="50.0" fill="none" r="30.889909029892603" stroke="black" stroke-width="2.0"/>
+    <circle cx="250.0" cy="50.0" fill="none" r="23.921327288983075" stroke="black" stroke-width="2.0"/>
+    <circle cx="250.0" cy="50.0" fill="none" r="17.19834972988445" stroke="black" stroke-width="2.0"/>
+    <circle cx="250.0" cy="50.0" fill="none" r="11.915891558071717" stroke="black" stroke-width="2.0"/>
+    <circle cx="250.0" cy="50.0" fill="none" r="7.09220653202283" stroke="black" stroke-width="2.0"/>
+    <circle cx="250.0" cy="50.0" fill="none" r="1.1957147381637894" stroke="black" stroke-width="2.0"/>
+    <circle cx="350.0" cy="50.0" fill="none" r="38.0" stroke="black" stroke-width="2.0"/>
+    <circle cx="350.0" cy="50.0" fill="none" r="33.30113392013975" stroke="black" stroke-width="2.0"/>
+    <circle cx="350.0" cy="50.0" fill="none" r="26.988254964325407" stroke="black" stroke-width="2.0"/>
+    <circle cx="350.0" cy="50.0" fill="none" r="22.220686140585414" stroke="black" stroke-width="2.0"/>
+    <circle cx="350.0" cy="50.0" fill="none" r="14.976105561562676" stroke="black" stroke-width="2.0"/>
+    <circle cx="350.0" cy="50.0" fill="none" r="8.746183849882577" stroke="black" stroke-width="2.0"/>
+    <circle cx="350.0" cy="50.0" fill="none" r="3.214542299003006" stroke="black" stroke-width="2.0"/>
+    <line stroke="black" stroke-width="2" x1="250.0" x2="350.0" y1="50.0" y2="50.0"/>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="16.666666666666664">3,0</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="16.666666666666664">2,0</text>
+    <polyline fill="none" points="29.519173523141617,61.59195271396305 148.21066916691456,64.41263891512843 241.53496097000664,62.904902521201635" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="241.53496097000664,62.904902521201635 367.08175478648883,34.225310143377904" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="367.08175478648883,34.225310143377904" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="367.08175478648883,34.225310143377904 247.29025579786668,49.691426172890075" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="247.29025579786668,49.691426172890075" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="247.29025579786668,49.691426172890075 365.487496755358,41.21441091938745" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="365.487496755358,41.21441091938745" stroke="orange" stroke-width="3"/>
+  </g>
+</svg>

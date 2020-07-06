@@ -1,0 +1,803 @@
+     _ _       _ _               _ 
+  __| (_) __ _(_) |_    _____   / |
+ / _` | |/ _` | | __|  |_____|  | |
+| (_| | | (_| | | |_   |_____|  | |
+ \__,_|_|\__, |_|\__|           |_|
+         |___/                     
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~1.e+00
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~3.991680e+07
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~4.790016e+08
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~4.099330e+83
+DIGIT COUNT 5
+maximum number is ~inf * 2980 ≈ inf
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~3.045836e+95
+DIGIT COUNT 6
+maximum number is ~3.045836e+95 * 2980 ≈ 9.076593e+98
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~6.531671e+98
+DIGIT COUNT 7
+maximum number is ~4.099330e+83 * 2980 ≈ 1.221600e+87
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+biggest num for count7 is ~8.395430e+86
+DIGIT COUNT 8
+maximum number is ~4.790016e+08 * 2980 ≈ 1.427424e+12
+count8 = count1 + count7
+count8 = count2 + count6
+count8 = count3 + count5
+                                        count8 = count4 + count4
+biggest num for count8 is ~1.426558e+12
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~1.e+00
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~3.991680e+07
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~4.790016e+08
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~4.099330e+83
+DIGIT COUNT 5
+maximum number is ~inf * 2980 ≈ inf
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~3.045836e+95
+DIGIT COUNT 6
+maximum number is ~3.045836e+95 * 2980 ≈ 9.076593e+98
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~6.531671e+98
+DIGIT COUNT 7
+maximum number is ~4.099330e+83 * 2980 ≈ 1.221600e+87
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+BETTER 74 with (111/(1+(1/(1+1)))) without: (1+(1+((((1+(1+1))!)!)/(11-1))))
+BETTER 792 with ((((1+(1+1))!)!)/(1-(1/11))) without: (11*((((1+(1+1))!)!)/(11-1)))
+BETTER 1080 with ((((1+(1+1))!)!)*(1+(1/(1+1)))) without: (((((1+(1+1))!)!)*(1+(1+1)))/(1+1))
+BETTER 480 with ((((1+(1+1))!)!)/(1+(1/(1+1)))) without: ((1+1)*((1+1)*((((1+(1+1))!)-1)!)))
+biggest num for count7 is ~8.395430e+86
+DIGIT COUNT 8
+maximum number is ~4.790016e+08 * 2980 ≈ 1.427424e+12
+count8 = count1 + count7
+count8 = count2 + count6
+count8 = count3 + count5
+BETTER TERM FOR 148 WITH FRACTIONS: (111*(1+(1/(1+(1+1))))) WITHOUT: not found
+BETTER TERM FOR 780 WITH FRACTIONS: ((((1+(1+1))!)!)*(1+(1/(1+11)))) WITHOUT: not found
+BETTER TERM FOR 648 WITH FRACTIONS: ((((1+(1+1))!)!)*(1-(1/(11-1)))) WITHOUT: not found
+BETTER TERM FOR 800 WITH FRACTIONS: ((((1+(1+1))!)!)/(1-(1/(11-1)))) WITHOUT: not found
+BETTER TERM FOR 960 WITH FRACTIONS: ((((1+(1+1))!)!)*(1+(1/(1+(1+1))))) WITHOUT: not found
+BETTER TERM FOR 540 WITH FRACTIONS: ((((1+(1+1))!)!)/(1+(1/(1+(1+1))))) WITHOUT: not found
+BETTER TERM FOR 1800 WITH FRACTIONS: ((((1+(1+1))!)!)*(1+(1+(1/(1+1))))) WITHOUT: not found
+BETTER TERM FOR 160 WITH FRACTIONS: ((((1+(1+1))!)!)/((11/(1+1))-1)) WITHOUT: not found
+BETTER TERM FOR 880 WITH FRACTIONS: ((((1+(1+1))!)!)/(1-((1+1)/11))) WITHOUT: not found
+count8 = count4 + count4
+biggest num for count8 is ~1.426558e+12
+
+     _ _       _ _               ____
+  __| (_) __ _(_) |_    _____   |___ \ 
+ / _` | |/ _` | | __|  |_____|    __) |
+| (_| | | (_| | | |_   |_____|   / __/ 
+ \__,_|_|\__, |_|\__|           |_____|
+         |___/                         
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~2.e+00
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~6.204484e+23
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~1.241391e+61
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~1.059097e+571
+DIGIT COUNT 5
+maximum number is ~1.059097e+571 * 2980 ≈ 3.156111e+574
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~2.118195e+571
+DIGIT COUNT 6
+maximum number is ~1.241391e+61 * 2980 ≈ 3.699346e+64
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~3.041409e+64
+DIGIT COUNT 7
+maximum number is ~6.204484e+23 * 2980 ≈ 1.848936e+27
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+biggest num for count7 is ~1.786891e+27
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~2.e+00
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~6.204484e+23
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~1.241391e+61
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~1.059097e+571
+DIGIT COUNT 5
+maximum number is ~1.059097e+571 * 2980 ≈ 3.156111e+574
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~2.118195e+571
+DIGIT COUNT 6
+maximum number is ~1.241391e+61 * 2980 ≈ 3.699346e+64
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~3.041409e+64
+DIGIT COUNT 7
+maximum number is ~6.204484e+23 * 2980 ≈ 1.848936e+27
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+BETTER TERM FOR 1500 WITH FRACTIONS: (((2+(2+2))!)*(2+(2/((2+2)!)))) WITHOUT: not found
+BETTER TERM FOR 1380 WITH FRACTIONS: (((2+(2+2))!)*(2-(2/((2+2)!)))) WITHOUT: not found
+BETTER TERM FOR 1210 WITH FRACTIONS: ((22^2)*(2+(2/(2+2)))) WITHOUT: not found
+biggest num for count7 is ~1.786891e+27
+
+     _ _       _ _               _____
+  __| (_) __ _(_) |_    _____   |___ / 
+ / _` | |/ _` | | __|  |_____|    |_ \ 
+| (_| | | (_| | | |_   |_____|   ___) |
+ \__,_|_|\__, |_|\__|           |____/ 
+         |___/                         
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~7.20e+02
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~3.719933e+41
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~2.649786e+249
+DIGIT COUNT 4
+maximum number is ~2.649786e+249 * 2980 ≈ 7.896363e+252
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~2.152014e+252
+DIGIT COUNT 5
+maximum number is ~3.719933e+41 * 2980 ≈ 1.108540e+45
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~1.093482e+45
+DIGIT COUNT 6
+maximum number is ~7.20e+02 * 2980 ≈ 2.145600e+06
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~2.144880e+06
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~7.20e+02
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~3.719933e+41
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~2.649786e+249
+DIGIT COUNT 4
+maximum number is ~2.649786e+249 * 2980 ≈ 7.896363e+252
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~2.152014e+252
+DIGIT COUNT 5
+maximum number is ~3.719933e+41 * 2980 ≈ 1.108540e+45
+count5 = count1 + count4
+BETTER TERM FOR 178 WITH FRACTIONS: ((3!)*(3+(((3!)!)/(3^3)))) WITHOUT: (((((3!)!)/(3!))+(((3!)/3)^(3!)))-(3!))
+BETTER TERM FOR 142 WITH FRACTIONS: ((3!)*((((3!)!)/(3^3))-3)) WITHOUT: (((3!)!)-(((3!)+(((3!)+(3!))^3))/3))
+BETTER TERM FOR 2320 WITH FRACTIONS: (((3!)!)*(3+((3!)/(3^3)))) WITHOUT: (((3!)!)+((((3!)!)/((3!)*3))^((3!)/3)))
+BETTER TERM FOR 2000 WITH FRACTIONS: (((3!)!)*(3-((3!)/(3^3)))) WITHOUT: ((((((3!)+((3!)/3))!)/(3!))-((3!)!))/3)
+count5 = count2 + count3
+BETTER TERM FOR 2541 WITH FRACTIONS: (((3!)+((3!)!))*(3+(3/(3!)))) WITHOUT: ((3*((((3!)!)/(3!))+(3^(3!))))-(3!))
+BETTER TERM FOR 1815 WITH FRACTIONS: (((3!)+((3!)!))*(3-(3/(3!)))) WITHOUT: (((3!)!)+((3!)+(33*33)))
+BETTER TERM FOR 2499 WITH FRACTIONS: ((((3!)!)-(3!))*(3+(3/(3!)))) WITHOUT: (((((3!)!)-(3!))*((3^3)-(3!)))/(3!))
+BETTER TERM FOR 1785 WITH FRACTIONS: ((((3!)!)-(3!))*(3-(3/(3!)))) WITHOUT: ((3*(((3!)!)-(3+(((3!)!)/(3!)))))-(3!))
+biggest num for count5 is ~1.093482e+45
+DIGIT COUNT 6
+maximum number is ~7.20e+02 * 2980 ≈ 2.145600e+06
+count6 = count1 + count5
+BETTER TERM FOR 1136 WITH FRACTIONS: ((3!)*(((3!)^3)-(((3!)!)/(3^3)))) WITHOUT: not found
+BETTER TERM FOR 1573 WITH FRACTIONS: ((((3!)+((3!)!))*((3!)+(3/(3!))))/3) WITHOUT: not found
+count6 = count2 + count4
+count6 = count3 + count3
+BETTER TERM FOR 2527 WITH FRACTIONS: ((((3!)!)+(((3!)!)/(3!)))*(3+((3!)/((3!)!)))) WITHOUT: not found
+BETTER TERM FOR 2513 WITH FRACTIONS: ((((3!)!)+(((3!)!)/(3!)))*(3-((3!)/((3!)!)))) WITHOUT: not found
+BETTER TERM FOR 1805 WITH FRACTIONS: ((((3!)!)-(((3!)!)/(3!)))*(3+((3!)/((3!)!)))) WITHOUT: not found
+BETTER TERM FOR 1795 WITH FRACTIONS: ((((3!)!)-(((3!)!)/(3!)))*(3-((3!)/((3!)!)))) WITHOUT: not found
+biggest num for count6 is ~96550276/45
+
+     _ _       _ _               _  _
+  __| (_) __ _(_) |_    _____   | || |  
+ / _` | |/ _` | | __|  |_____|  | || |_ 
+| (_| | | (_| | | |_   |_____|  |__   _|
+ \__,_|_|\__, |_|\__|              |_|  
+         |___/                          
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~6.204484e+23
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.059097e+571
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~1.258184e+2284
+DIGIT COUNT 4
+maximum number is ~1.258184e+2284 * 2980 ≈ 3.749389e+2287
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~3.220952e+2286
+DIGIT COUNT 5
+maximum number is ~1.059097e+571 * 2980 ≈ 3.156111e+574
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~3.050201e+574
+DIGIT COUNT 6
+maximum number is ~6.204484e+23 * 2980 ≈ 1.848936e+27
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~1.848936e+27
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~6.204484e+23
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.059097e+571
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~1.258184e+2284
+DIGIT COUNT 4
+maximum number is ~1.258184e+2284 * 2980 ≈ 3.749389e+2287
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~3.220952e+2286
+DIGIT COUNT 5
+maximum number is ~1.059097e+571 * 2980 ≈ 3.156111e+574
+count5 = count1 + count4
+BETTER TERM FOR 612 WITH FRACTIONS: ((4!)*((4!)+((4!)/(4*4)))) WITHOUT: ((4!)+(4+(4+(4+((4!)*(4!))))))
+count5 = count2 + count3
+biggest num for count5 is ~3.050201e+574
+DIGIT COUNT 6
+maximum number is ~6.204484e+23 * 2980 ≈ 1.848936e+27
+count6 = count1 + count5
+BETTER TERM FOR 2358 WITH FRACTIONS: ((4!)*((4!)*(4+((4!)/(4^4))))) WITHOUT: not found
+BETTER TERM FOR 2250 WITH FRACTIONS: ((4!)*((4!)*(4-((4!)/(4^4))))) WITHOUT: not found
+BETTER TERM FOR 2313 WITH FRACTIONS: ((4!)*((4!)*(4+(4/(4^4))))) WITHOUT: not found
+BETTER TERM FOR 2295 WITH FRACTIONS: ((4!)*((4!)*(4-(4/(4^4))))) WITHOUT: not found
+BETTER TERM FOR 393 WITH FRACTIONS: ((4!)*(4*(4+((4!)/(4^4))))) WITHOUT: not found
+BETTER TERM FOR 375 WITH FRACTIONS: ((4!)*(4*(4-((4!)/(4^4))))) WITHOUT: not found
+count6 = count2 + count4
+BETTER TERM FOR 658 WITH FRACTIONS: (((4!)+4)*((4!)-(4/(4+4)))) WITHOUT: not found
+BETTER TERM FOR 1078 WITH FRACTIONS: (44*((4!)+(4/(4+4)))) WITHOUT: not found
+count6 = count3 + count3
+BETTER TERM FOR 429 WITH FRACTIONS: (((4!)-((4!)/4))*((4!)-(4/(4!)))) WITHOUT: not found
+BETTER TERM FOR 1850 WITH FRACTIONS: ((4+(4/(4!)))*444) WITHOUT: not found
+biggest num for count6 is ~1.848936e+27
+
+     _ _       _ _               ____
+  __| (_) __ _(_) |_    _____   | ___| 
+ / _` | |/ _` | | __|  |_____|  |___ \ 
+| (_| | | (_| | | |_   |_____|   ___) |
+ \__,_|_|\__, |_|\__|           |____/ 
+         |___/                         
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~1.20e+02
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.269640e+73
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~3.299161e+365
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~5.040099e+4020
+DIGIT COUNT 5
+maximum number is ~3.299161e+365 * 2980 ≈ 9.831500e+368
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~2.061975e+368
+DIGIT COUNT 6
+maximum number is ~1.269640e+73 * 2980 ≈ 3.783528e+76
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~3.777179e+76
+DIGIT COUNT 7
+maximum number is ~1.20e+02 * 2980 ≈ 3.57600e+05
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+biggest num for count7 is ~3.57600e+05
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~1.20e+02
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.269640e+73
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~3.299161e+365
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~5.040099e+4020
+DIGIT COUNT 5
+maximum number is ~3.299161e+365 * 2980 ≈ 9.831500e+368
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~2.061975e+368
+DIGIT COUNT 6
+maximum number is ~1.269640e+73 * 2980 ≈ 3.783528e+76
+count6 = count1 + count5
+BETTER TERM FOR 1704 WITH FRACTIONS: ((5!)*((((5!)-((5!)/5))/5)-5)) WITHOUT: ((5!)+(((5!)+((5!)*((5!)-55)))/5))
+BETTER TERM FOR 1752 WITH FRACTIONS: ((5!)*(5+((((5!)+(5!))/5)/5))) WITHOUT: (((5!)+((5!)*((5!)-(((5!)+(5!))/5))))/5)
+count6 = count2 + count4
+BETTER TERM FOR 2352 WITH FRACTIONS: (((5!)+(5!))*(5+((5!)/(5*5)))) WITHOUT: (((5!)+((5!)+((5!)*((5!)-((5!)/5)))))/5)
+BETTER TERM FOR 1127 WITH FRACTIONS: (((5!)-5)*(5+((5!)/(5*5)))) WITHOUT: ((5!)+((((5+((5+5)/5))!)-5)/5))
+BETTER TERM FOR 539 WITH FRACTIONS: (55*(5+((5!)/(5*5)))) WITHOUT: ((555-(55/5))-5)
+count6 = count3 + count3
+biggest num for count6 is ~3.777179e+76
+DIGIT COUNT 7
+maximum number is ~1.20e+02 * 2980 ≈ 3.57600e+05
+count7 = count1 + count6
+BETTER TERM FOR 2368 WITH FRACTIONS: ((5!)/((5/(5!))+(5/555))) WITHOUT: not found
+count7 = count2 + count5
+BETTER TERM FOR 958 WITH FRACTIONS: (((5!)+(5!))*(5-(((5!)+(5/5))/(5!)))) WITHOUT: not found
+BETTER TERM FOR 962 WITH FRACTIONS: (((5!)+(5!))*(5-(((5!)-(5/5))/(5!)))) WITHOUT: not found
+BETTER TERM FOR 1702 WITH FRACTIONS: (((5!)-5)*(5+(5+((5!)/(5*5))))) WITHOUT: not found
+BETTER TERM FOR 2162 WITH FRACTIONS: (((5!)-5)*((((5!)-(5/5))/5)-5)) WITHOUT: not found
+BETTER TERM FOR 1859 WITH FRACTIONS: (55*(5+(((5!)+((5!)/5))/5))) WITHOUT: not found
+BETTER TERM FOR 1606 WITH FRACTIONS: (55*(5+(((5!)+(5/5))/5))) WITHOUT: not found
+BETTER TERM FOR 803 WITH FRACTIONS: (55*(5+((((5!)+(5!))/5)/5))) WITHOUT: not found
+count7 = count3 + count4
+BETTER TERM FOR 1803 WITH FRACTIONS: (((5!)+((5!)+(5!)))*(5+((5!)/((5!)*(5!))))) WITHOUT: not found
+BETTER TERM FOR 1797 WITH FRACTIONS: (((5!)+((5!)+(5!)))*(5-((5!)/((5!)*(5!))))) WITHOUT: not found
+BETTER TERM FOR 882 WITH FRACTIONS: (((5!)+55)*(5+(5/((5!)+5)))) WITHOUT: not found
+BETTER TERM FOR 868 WITH FRACTIONS: (((5!)+55)*(5-(5/((5!)+5)))) WITHOUT: not found
+biggest num for count7 is ~3.57600e+05
+
+     _ _       _ _                __
+  __| (_) __ _(_) |_    _____    / /_  
+ / _` | |/ _` | | __|  |_____|  | '_ \ 
+| (_| | | (_| | | |_   |_____|  | (_) |
+ \__,_|_|\__, |_|\__|            \___/ 
+         |___/                         
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~7.20e+02
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~5.443449e+92
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~2.601627e+556
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~3.695698e+6120
+DIGIT COUNT 5
+maximum number is ~2.601627e+556 * 2980 ≈ 7.752850e+559
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~3.746343e+559
+DIGIT COUNT 6
+maximum number is ~5.443449e+92 * 2980 ≈ 1.622147e+96
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~1.610042e+96
+DIGIT COUNT 7
+maximum number is ~7.20e+02 * 2980 ≈ 2.145600e+06
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+biggest num for count7 is ~2.140992e+06
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~7.20e+02
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~5.443449e+92
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~2.601627e+556
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~3.695698e+6120
+DIGIT COUNT 5
+maximum number is ~2.601627e+556 * 2980 ≈ 7.752850e+559
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~3.746343e+559
+DIGIT COUNT 6
+maximum number is ~5.443449e+92 * 2980 ≈ 1.622147e+96
+count6 = count1 + count5
+BETTER TERM FOR 213 WITH FRACTIONS: (6*((6*6)-(6/(6+6)))) WITHOUT: ((((6!)+((6!)-(6+((6!)/6))))/6)-6)
+BETTER TERM FOR 399 WITH FRACTIONS: (6*(66+(6/(6+6)))) WITHOUT: (((((6!)*((6!)/(6*6)))/6)-6)/6)
+BETTER TERM FOR 321 WITH FRACTIONS: (6*((((6!)-6)/(6+6))-6)) WITHOUT: ((((6!)*((6!)-66))/((6!)+(6!)))-6)
+count6 = count2 + count4
+BETTER TERM FOR 429 WITH FRACTIONS: (66*(6+(6/(6+6)))) WITHOUT: (6+(((6!)+(6*((6!)+6)))/(6+6)))
+count6 = count3 + count3
+biggest num for count6 is ~1.610042e+96
+DIGIT COUNT 7
+maximum number is ~7.20e+02 * 2980 ≈ 2.145600e+06
+count7 = count1 + count6
+BETTER TERM FOR 435 WITH FRACTIONS: (6*(6+(66+(6/(6+6))))) WITHOUT: not found
+BETTER TERM FOR 2373 WITH FRACTIONS: (6*((6*66)-(6/(6+6)))) WITHOUT: not found
+BETTER TERM FOR 2720 WITH FRACTIONS: ((6!)*(6-((6!)/((6!)-(6*66))))) WITHOUT: not found
+BETTER TERM FOR 1900 WITH FRACTIONS: ((6!)*(6-(((((6!)+6)/6)/6)/6))) WITHOUT: not found
+BETTER TERM FOR 1940 WITH FRACTIONS: ((6!)*(6-(((((6!)-6)/6)/6)/6))) WITHOUT: not found
+BETTER TERM FOR 1760 WITH FRACTIONS: ((6!)*((6+6)/(((6!)/66)-6))) WITHOUT: not found
+BETTER TERM FOR 2199 WITH FRACTIONS: (6*(6+(((6!)+((6!)*(6!)))/((6!)+(6!))))) WITHOUT: not found
+BETTER TERM FOR 2121 WITH FRACTIONS: (6*(((((6!)*(6!))-(6!))/((6!)+(6!)))-6)) WITHOUT: not found
+count7 = count2 + count5
+BETTER TERM FOR 418 WITH FRACTIONS: (66*(6+(6/(6+(6+6))))) WITHOUT: not found
+BETTER TERM FOR 451 WITH FRACTIONS: (66*(6+((6-(6/6))/6))) WITHOUT: not found
+BETTER TERM FOR 2409 WITH FRACTIONS: (66*((6*6)+(6/(6+6)))) WITHOUT: not found
+BETTER TERM FOR 2343 WITH FRACTIONS: (66*((6*6)-(6/(6+6)))) WITHOUT: not found
+BETTER TERM FOR 1215 WITH FRACTIONS: ((6^6)/(6+((6^6)/((6!)+(6!))))) WITHOUT: not found
+BETTER TERM FOR 1936 WITH FRACTIONS: (((6!)+6)*(6-((6!)/(6*(6*6))))) WITHOUT: not found
+BETTER TERM FOR 1904 WITH FRACTIONS: (((6!)-6)*(6-((6!)/(6*(6*6))))) WITHOUT: not found
+BETTER TERM FOR 2975 WITH FRACTIONS: (((6!)-6)*(6-((66/6)/6))) WITHOUT: not found
+BETTER TERM FOR 1727 WITH FRACTIONS: (66*(6+((((6!)+6)/6)/6))) WITHOUT: not found
+BETTER TERM FOR 1705 WITH FRACTIONS: (66*(6+((((6!)-6)/6)/6))) WITHOUT: not found
+BETTER TERM FOR 1514 WITH FRACTIONS: ((6+6)*(6+(((6!)+(6/6))/6))) WITHOUT: not found
+count7 = count3 + count4
+biggest num for count7 is ~96550276/45
+
+     _ _       _ _               _____
+  __| (_) __ _(_) |_    _____   |___  |
+ / _` | |/ _` | | __|  |_____|     / / 
+| (_| | | (_| | | |_   |_____|    / /  
+ \__,_|_|\__, |_|\__|            /_/   
+         |___/                         
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~5.040e+03
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~6.082818e+62
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~3.081300e+439
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~2.377249e+4834
+DIGIT COUNT 5
+maximum number is ~2.377249e+4834 * 2980 ≈ 7.084204e+4837
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~1.664074e+4835
+DIGIT COUNT 6
+maximum number is ~3.081300e+439 * 2980 ≈ 9.182275e+442
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~4.437072e+442
+DIGIT COUNT 7
+maximum number is ~6.082818e+62 * 2980 ≈ 1.812679e+66
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+biggest num for count7 is ~1.801291e+66
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~5.040e+03
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~6.082818e+62
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~3.081300e+439
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~2.377249e+4834
+DIGIT COUNT 5
+maximum number is ~2.377249e+4834 * 2980 ≈ 7.084204e+4837
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~1.664074e+4835
+DIGIT COUNT 6
+maximum number is ~3.081300e+439 * 2980 ≈ 9.182275e+442
+count6 = count1 + count5
+BETTER TERM FOR 640 WITH FRACTIONS: ((7!)/(7+(7/(7+(7/7))))) WITHOUT: (((7!)-((7!)/(7+((7+7)/7))))/7)
+BETTER TERM FOR 864 WITH FRACTIONS: ((7!)/(7-(7/(7-(7/7))))) WITHOUT: (((7!)+((7!)/(7-((7+7)/7))))/7)
+count6 = count2 + count4
+BETTER TERM FOR 1344 WITH FRACTIONS: (((7!)+(7!))/(7+(7/(7+7)))) WITHOUT: ((7!)-((7*(7*77))-77))
+count6 = count3 + count3
+biggest num for count6 is ~4.437072e+442
+DIGIT COUNT 7
+maximum number is ~6.082818e+62 * 2980 ≈ 1.812679e+66
+count7 = count1 + count6
+count7 = count2 + count5
+BETTER TERM FOR 418 WITH FRACTIONS: (77*(7-((77/7)/7))) WITHOUT: not found
+BETTER TERM FOR 627 WITH FRACTIONS: (77*(7+((7+(7/7))/7))) WITHOUT: not found
+BETTER TERM FOR 605 WITH FRACTIONS: (77*(7+((7-(7/7))/7))) WITHOUT: not found
+BETTER TERM FOR 1991 WITH FRACTIONS: (77*(((7!)/(7*7))-77)) WITHOUT: not found
+BETTER TERM FOR 2978 WITH FRACTIONS: ((7+7)*(7+((((7!)+(7!))/7)/7))) WITHOUT: not found
+BETTER TERM FOR 2782 WITH FRACTIONS: ((7+7)*(((((7!)+(7!))/7)/7)-7)) WITHOUT: not found
+BETTER TERM FOR 1340 WITH FRACTIONS: ((7+7)*(((((7!)-7)/7)/7)-7)) WITHOUT: not found
+count7 = count3 + count4
+BETTER TERM FOR 500 WITH FRACTIONS: ((77-7)*(7+(7/(7*7)))) WITHOUT: not found
+BETTER TERM FOR 150 WITH FRACTIONS: ((7+(7+7))*(7+(7/(7*7)))) WITHOUT: not found
+BETTER TERM FOR 2307 WITH FRACTIONS: ((7+(7+7))*(7+((7!)/(7*7)))) WITHOUT: not found
+BETTER TERM FOR 2013 WITH FRACTIONS: ((7+(7+7))*(((7!)/(7*7))-7)) WITHOUT: not found
+biggest num for count7 is ~1.801291e+66
+
+     _ _       _ _                ___
+  __| (_) __ _(_) |_    _____    ( _ ) 
+ / _` | |/ _` | | __|  |_____|   / _ \ 
+| (_| | | (_| | | |_   |_____|  | (_) |
+ \__,_|_|\__, |_|\__|            \___/ 
+         |___/                         
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~4.0320e+04
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.268869e+89
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~6.719472e+712
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~1.260918e+7841
+DIGIT COUNT 5
+maximum number is ~1.260918e+7841 * 2980 ≈ 3.757536e+7844
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~1.008734e+7842
+DIGIT COUNT 6
+maximum number is ~6.719472e+712 * 2980 ≈ 2.002402e+716
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~1.693307e+716
+DIGIT COUNT 7
+maximum number is ~1.268869e+89 * 2980 ≈ 3.781230e+92
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+biggest num for count7 is ~3.637168e+92
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~4.0320e+04
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.268869e+89
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~6.719472e+712
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~1.260918e+7841
+DIGIT COUNT 5
+maximum number is ~1.260918e+7841 * 2980 ≈ 3.757536e+7844
+count5 = count1 + count4
+BETTER TERM FOR 68 WITH FRACTIONS: (8*(8+(8/(8+8)))) WITHOUT: ((8*8)+(8/((8+8)/8)))
+BETTER TERM FOR 60 WITH FRACTIONS: (8*(8-(8/(8+8)))) WITHOUT: ((8*8)-(8/((8+8)/8)))
+count5 = count2 + count3
+biggest num for count5 is ~1.008734e+7842
+DIGIT COUNT 6
+maximum number is ~6.719472e+712 * 2980 ≈ 2.002402e+716
+count6 = count1 + count5
+BETTER TERM FOR 132 WITH FRACTIONS: (8*(8+(8+(8/(8+8))))) WITHOUT: (((88*(8+88))/8)/8)
+BETTER TERM FOR 124 WITH FRACTIONS: (8*(8+(8-(8/(8+8))))) WITHOUT: ((((8!)+((8!)+((88/8)!)))/8)/(8!))
+BETTER TERM FOR 108 WITH FRACTIONS: (8*(8+(88/(8+8)))) WITHOUT: ((((888-8)-8)-8)/8)
+BETTER TERM FOR 708 WITH FRACTIONS: (8*(88+(8/(8+8)))) WITHOUT: ((8*88)+(8/((8+8)/8)))
+BETTER TERM FOR 700 WITH FRACTIONS: (8*(88-(8/(8+8)))) WITHOUT: ((((8!)+((8!)/(8+(8/8))))/8)/8)
+BETTER TERM FOR 516 WITH FRACTIONS: (8*((8*8)+(8/(8+8)))) WITHOUT: (8+(88+((8!)/(8+88))))
+count6 = count2 + count4
+BETTER TERM FOR 748 WITH FRACTIONS: (88*(8+(8/(8+8)))) WITHOUT: (((((8!)+(8!))/8)/8)-(8*(8*8)))
+BETTER TERM FOR 660 WITH FRACTIONS: (88*(8-(8/(8+8)))) WITHOUT: not found
+count6 = count3 + count3
+biggest num for count6 is ~1.693307e+716
+DIGIT COUNT 7
+maximum number is ~1.268869e+89 * 2980 ≈ 3.781230e+92
+count7 = count1 + count6
+BETTER TERM FOR 196 WITH FRACTIONS: (8*(8+(8+(8+(8/(8+8)))))) WITHOUT: not found
+BETTER TERM FOR 772 WITH FRACTIONS: (8*(8+(88+(8/(8+8))))) WITHOUT: not found
+BETTER TERM FOR 764 WITH FRACTIONS: (8*(8+(88-(8/(8+8))))) WITHOUT: not found
+BETTER TERM FOR 580 WITH FRACTIONS: (8*(8+((8*8)+(8/(8+8))))) WITHOUT: not found
+BETTER TERM FOR 572 WITH FRACTIONS: (8*(8+((8*8)-(8/(8+8))))) WITHOUT: not found
+BETTER TERM FOR 1028 WITH FRACTIONS: (8*((8*(8+8))+(8/(8+8)))) WITHOUT: not found
+BETTER TERM FOR 1020 WITH FRACTIONS: (8*((8*(8+8))-(8/(8+8)))) WITHOUT: not found
+BETTER TERM FOR 2268 WITH FRACTIONS: ((8!)/(8+(88/(8+(8/8))))) WITHOUT: not found
+BETTER TERM FOR 462 WITH FRACTIONS: ((8!)/(88-(8*(8/88)))) WITHOUT: not found
+BETTER TERM FOR 673 WITH FRACTIONS: ((8+((8!)/(8-(8/(8+8)))))/8) WITHOUT: not found
+BETTER TERM FOR 671 WITH FRACTIONS: ((((8!)/(8-(8/(8+8))))-8)/8) WITHOUT: not found
+count7 = count2 + count5
+BETTER TERM FOR 1452 WITH FRACTIONS: (88*(8+(8+(8/(8+8))))) WITHOUT: not found
+BETTER TERM FOR 1364 WITH FRACTIONS: (88*(8+(8-(8/(8+8))))) WITHOUT: not found
+BETTER TERM FOR 682 WITH FRACTIONS: (88*(8-(((8+8)/8)/8))) WITHOUT: not found
+BETTER TERM FOR 803 WITH FRACTIONS: (88*(8+((8+(8/8))/8))) WITHOUT: not found
+BETTER TERM FOR 781 WITH FRACTIONS: (88*(8+((8-(8/8))/8))) WITHOUT: not found
+BETTER TERM FOR 220 WITH FRACTIONS: (88*(8-(88/(8+8)))) WITHOUT: not found
+BETTER TERM FOR 142 WITH FRACTIONS: ((8+8)*(8+((8-(8/8))/8))) WITHOUT: not found
+count7 = count3 + count4
+BETTER TERM FOR 780 WITH FRACTIONS: ((8+88)*(8+(8/(8*8)))) WITHOUT: not found
+BETTER TERM FOR 195 WITH FRACTIONS: ((8+(8+8))*(8+(8/(8*8)))) WITHOUT: not found
+biggest num for count7 is ~3.637168e+92
+
+     _ _       _ _                ___
+  __| (_) __ _(_) |_    _____    / _ \ 
+ / _` | |/ _` | | __|  |_____|  | (_) |
+| (_| | | (_| | | |_   |_____|   \__, |
+ \__,_|_|\__, |_|\__|              /_/ 
+         |___/                         
+
+Searching terms...
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~3.62880e+05
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.091106e+50
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~2.609397e+550
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~6.726064e+1564
+DIGIT COUNT 5
+maximum number is ~6.726064e+1564 * 2980 ≈ 2.004367e+1568
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~6.053457e+1565
+DIGIT COUNT 6
+maximum number is ~2.609397e+550 * 2980 ≈ 7.776004e+553
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~2.785863e+553
+DIGIT COUNT 7
+maximum number is ~1.091106e+50 * 2980 ≈ 3.251498e+53
+count7 = count1 + count6
+count7 = count2 + count5
+count7 = count3 + count4
+biggest num for count7 is ~3.181667e+53
+DIGIT COUNT 1
+maximum number is ~inf * 2980 ≈ inf
+biggest num for count1 is ~3.62880e+05
+DIGIT COUNT 2
+maximum number is ~inf * 2980 ≈ inf
+count2 = count1 + count1
+biggest num for count2 is ~1.091106e+50
+DIGIT COUNT 3
+maximum number is ~inf * 2980 ≈ inf
+count3 = count1 + count2
+biggest num for count3 is ~2.609397e+550
+DIGIT COUNT 4
+maximum number is ~inf * 2980 ≈ inf
+count4 = count1 + count3
+count4 = count2 + count2
+biggest num for count4 is ~6.726064e+1564
+DIGIT COUNT 5
+maximum number is ~6.726064e+1564 * 2980 ≈ 2.004367e+1568
+count5 = count1 + count4
+count5 = count2 + count3
+biggest num for count5 is ~6.053457e+1565
+DIGIT COUNT 6
+maximum number is ~2.609397e+550 * 2980 ≈ 7.776004e+553
+count6 = count1 + count5
+count6 = count2 + count4
+count6 = count3 + count3
+biggest num for count6 is ~2.785863e+553
+DIGIT COUNT 7
+maximum number is ~1.091106e+50 * 2980 ≈ 3.251498e+53
+count7 = count1 + count6
+count7 = count2 + count5
+BETTER TERM FOR 770 WITH FRACTIONS: (99*(9-((99/9)/9))) WITHOUT: not found
+BETTER TERM FOR 924 WITH FRACTIONS: (99*(9+(9/(9+(9+9))))) WITHOUT: not found
+BETTER TERM FOR 858 WITH FRACTIONS: (99*(9-(9/(9+(9+9))))) WITHOUT: not found
+BETTER TERM FOR 913 WITH FRACTIONS: (99*(9+(((9+9)/9)/9))) WITHOUT: not found
+BETTER TERM FOR 869 WITH FRACTIONS: (99*(9-(((9+9)/9)/9))) WITHOUT: not found
+BETTER TERM FOR 803 WITH FRACTIONS: (99*(9-((9-(9/9))/9))) WITHOUT: not found
+BETTER TERM FOR 184 WITH FRACTIONS: ((9+9)*(9+((99/9)/9))) WITHOUT: not found
+BETTER TERM FOR 140 WITH FRACTIONS: ((9+9)*(9-((99/9)/9))) WITHOUT: not found
+BETTER TERM FOR 166 WITH FRACTIONS: ((9+9)*(9+(((9+9)/9)/9))) WITHOUT: not found
+BETTER TERM FOR 158 WITH FRACTIONS: ((9+9)*(9-(((9+9)/9)/9))) WITHOUT: not found
+BETTER TERM FOR 146 WITH FRACTIONS: ((9+9)*(9-((9-(9/9))/9))) WITHOUT: not found
+count7 = count3 + count4
+BETTER TERM FOR 984 WITH FRACTIONS: ((9+99)*(9+(9/(9*9)))) WITHOUT: not found
+BETTER TERM FOR 960 WITH FRACTIONS: ((9+99)*(9-(9/(9*9)))) WITHOUT: not found
+BETTER TERM FOR 246 WITH FRACTIONS: ((9+(9+9))*(9+(9/(9*9)))) WITHOUT: not found
+biggest num for count7 is ~3.181667e+53

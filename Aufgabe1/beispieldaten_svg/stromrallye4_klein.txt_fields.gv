@@ -1,0 +1,7 @@
+digraph "stromrallye4_klein.txt_fields" {
+	compound=true
+	"0_1" [label="0,1
+ic: 20
+free: 0,0;0,1
+swlolw: none" fillcolor=green pos="0.0,2.8!" style=filled]
+}

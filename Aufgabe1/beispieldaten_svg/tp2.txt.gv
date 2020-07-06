@@ -1,0 +1,9 @@
+digraph "tp2.txt" {
+	compound=true
+	subgraph cluster0_0 {
+		label="0,0"
+		battery0_0_0 [label="0,-1" pos="0.0,2.8!"]
+		battery0_0_5 [label="5,0" fillcolor=green pos="1.0,2.8!" style=filled]
+	}
+	battery0_0_0 -> battery0_0_5 [label=0 color=orange fillcolor=orange]
+}

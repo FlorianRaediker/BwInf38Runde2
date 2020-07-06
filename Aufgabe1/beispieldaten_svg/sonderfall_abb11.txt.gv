@@ -1,0 +1,44 @@
+digraph "sonderfall_abb11.txt" {
+	compound=true
+	subgraph cluster1_0 {
+		label="1,0"
+		battery1_0_0 [label="0,-1" pos="2.8,14.0!"]
+		battery1_0_1 [label="1,0" fillcolor=yellow pos="3.8,14.0!" style=filled]
+		battery1_0_2 [label="2,6" pos="2.8,13.0!"]
+	}
+	subgraph cluster0_1 {
+		label="0,1"
+		battery0_1_0 [label="0,1" fillcolor=yellow pos="0.0,11.2!" style=filled]
+	}
+	subgraph cluster1_1 {
+		label="1,1"
+		battery1_1_0 [label="0,-1" pos="2.8,11.2!"]
+		battery1_1_1 [label="1,7" pos="3.8,11.2!"]
+		battery1_1_2 [label="2,2" fillcolor=yellow pos="2.8,10.2!" style=filled]
+		battery1_1_3 [label="3,5" pos="3.8,10.2!"]
+	}
+	subgraph cluster2_1 {
+		label="2,1"
+		battery2_1_0 [label="0,3" fillcolor=yellow pos="5.6,11.2!" style=filled]
+	}
+	subgraph cluster1_4 {
+		label="1,4"
+		battery1_4_0 [label="0,-1" pos="2.8,2.8!"]
+		battery1_4_6 [label="6,4" fillcolor=green pos="3.8,2.8!" style=filled]
+	}
+	battery1_0_1 -> battery1_1_0 [label=5 color=red fillcolor=red]
+	battery1_0_2 -> battery1_1_1 [color="#00000055" fillcolor=none]
+	battery1_0_2 -> battery1_0_0 [color="#00000055" fillcolor=none]
+	battery1_1_2 -> battery1_0_1 [label=3 color=red fillcolor=red]
+	battery1_1_2 -> battery1_1_0 [color="#00000055" fillcolor=none]
+	battery1_1_3 -> battery1_0_2 [color="#00000055" fillcolor=none]
+	battery1_1_3 -> battery1_1_1 [color="#00000055" fillcolor=none]
+	battery1_1_1 -> battery1_0_0 [label=7 color=red fillcolor=red]
+	battery1_4_6 -> battery1_1_3 [color="#00000055" fillcolor=none]
+	battery1_4_6 -> battery1_1_1 [label=1 color=red fillcolor=red]
+	battery1_4_0 -> battery1_4_6 [label=0 color=orange fillcolor=orange]
+	battery1_1_1 -> battery1_1_2 [label=2 color=orange fillcolor=orange]
+	battery1_0_1 -> battery1_0_1 [label=4 color=orange fillcolor=orange]
+	battery1_1_0 -> battery1_1_1 [label=6 color=orange fillcolor=orange]
+	battery1_0_0 -> battery1_0_1 [label=8 color=orange fillcolor=orange]
+}

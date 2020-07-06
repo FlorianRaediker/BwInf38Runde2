@@ -1,0 +1,31 @@
+digraph "stromrallye3.txt_fields" {
+	compound=true
+	"5_3" [label="5,3
+ic: 4
+free: 5,2;6,2
+swlolw: none" pos="14.0,30.799999999999997!"]
+	"4_11" [label="4,11
+ic: 10
+free: 4,10;4,9
+swlolw: none" pos="11.2,8.399999999999999!"]
+	"5_1" [label="5,1
+ic: 5
+free: 5,0;6,0
+swlolw: none" pos="14.0,36.4!"]
+	"2_4" [label="2,4
+ic: 9
+free: 2,3;2,2
+swlolw: none" fillcolor=green pos="5.6,28.0!" style=filled]
+	"5_3" -> "5_1" [label="2  (4) "]
+	"5_3" -> "5_3" [label="2  (4) "]
+	"5_3" -> "4_11" [label="9  (9) "]
+	"4_11" -> "4_11" [label="2  (4) "]
+	"4_11" -> "5_3" [label="9  (9) "]
+	"4_11" -> "5_1" [label="11  (11) "]
+	"5_1" -> "5_3" [label="2  (4) "]
+	"5_1" -> "5_1" [label="2  (4) "]
+	"5_1" -> "4_11" [label="11  (11) "]
+	"2_4" -> "5_3" [label="4  (4) "]
+	"2_4" -> "5_1" [label="6  (6) "]
+	"2_4" -> "4_11" [label="9  (9) "]
+}

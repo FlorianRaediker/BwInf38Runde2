@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="503.0" version="1.1" width="703.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="500" stroke="#aaaaaa" stroke-width="3.0" width="700" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="500" x2="500" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="600" x2="600" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="700" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="700" y1="200" y2="200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="700" y1="300" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="700" y1="400" y2="400"/>
+    </g>
+    <circle cx="650.0" cy="250.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="250.0">7</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="216.66666666666666">6,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="116.66666666666666">0,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="50.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="16.666666666666664">1,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="350.0">1</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="316.6666666666667">1,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="450.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="416.6666666666667">1,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="416.6666666666667">0,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="250.0">3</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="216.66666666666666">0,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="150.0">1</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="116.66666666666666">2,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="16.666666666666664">2,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="150.0">7</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="116.66666666666666">3,1</text>
+    <polyline fill="none" points="626.4199237326584,241.34475205269 657.2606029239151,171.20903624700816 569.3685267966933,169.740871267329 432.52259854042046,133.65249735178116 327.74335259238694,159.73119505361973 266.91295774144794,151.51920114459136 234.27106077683607,30.782647721979018 259.0374414717285,172.4083733161567 138.27087857681923,168.7407518905576 172.22576348483295,41.32222120403334 31.28174769970667,70.86804368315745 49.99404992742595,130.81537323500532 30.276314033156623,32.6627772754503 140.43898471582338,51.829532027200074 31.98423654783158,34.56037195083361 63.828303435107955,161.92709092981943 52.355198605678765,263.40158715671464 35.485325297205364,159.06482007687904 55.83663845484733,260.2320526905816 40.242899128911276,355.8977066356586 60.88103902396021,426.8893202931349 144.9390767719149,473.92295868628446 146.44116318743153,362.2482708816319 158.53075782189686,449.06719688651543 129.30092668343144,350.6058361316296 249.9411856690458,332.6431067680845 262.2093000112913,240.9653379616633 171.1951081438466,262.9470774472851 60.949226469339465,268.8277182967243 35.978603802251655,155.61986812804116 156.39872111509237,137.16321597152697 243.62048510972198,163.7165528161842 366.3241651934757,165.9084095432902 361.34547840240907,42.92593485110025 454.3985088869254,65.03708740105425 325.373270595515,67.81448393690056" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="670.601714768097,270.5968051368867 563.3748660938254,273.24940325132496 468.8767515041287,226.8482943562463 362.8516082587827,235.21491371903232 250.8598312566525,227.30171841940657 139.7555534382889,274.96594190370985 128.0082335717127,126.32417677827456 52.65677222765939,138.21811182047793 172.83123868687863,129.65602731006268 173.20641899978753,32.30362001089665 132.7012935853723,136.70154893428182 150.3653049892913,233.03793005676948 129.2748838115625,330.3871018797742 131.2285938956469,465.8078449168914 241.12730707634734,451.1646916519626 226.4017369079261,330.1787897279753 169.05605967076826,342.77553925896535 74.47982577747064,326.28076825706245 44.65001224785155,454.79002039499943 46.88111722586402,333.9301279279032 44.123861972102475,247.1088669558759 150.1150181010418,271.0558527548806 228.20951387424935,225.6611412618853 273.17640999281986,174.86311204915992 263.45294704808293,36.86979950447235 334.44248476168923,56.3066334265432 328.53389464335345,127.22308238988228" stroke="seagreen" stroke-width="3"/>
+  </g>
+</svg>

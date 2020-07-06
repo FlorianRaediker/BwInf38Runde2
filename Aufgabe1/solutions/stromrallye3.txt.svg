@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="1403.0" version="1.1" width="1403.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="1400" stroke="#aaaaaa" stroke-width="3.0" width="1400" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="500" x2="500" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="600" x2="600" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="700" x2="700" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="800" x2="800" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="900" x2="900" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="1000" x2="1000" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="1100" x2="1100" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="1200" x2="1200" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="1300" x2="1300" y1="0" y2="1400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="200" y2="200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="300" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="400" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="500" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="600" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="700" y2="700"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="800" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="900" y2="900"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="1000" y2="1000"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="1100" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="1200" y2="1200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1400" y1="1300" y2="1300"/>
+    </g>
+    <circle cx="250.0" cy="450.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="450.0">9</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="416.6666666666667">2,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="350.0">4</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="316.6666666666667">5,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="1150.0">10</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="1116.6666666666667">4,11</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="150.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="116.66666666666666">5,1</text>
+  </g>
+</svg>

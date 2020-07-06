@@ -1,0 +1,54 @@
+digraph "stromrallye0.txt" {
+	compound=true
+	subgraph cluster4_0 {
+		label="4,0"
+		battery4_0_0 [label="0,-1" pos="11.2,14.0!"]
+		battery4_0_1 [label="1,1" pos="12.2,14.0!"]
+		battery4_0_3 [label="3,0" fillcolor=yellow pos="11.2,13.0!" style=filled]
+	}
+	subgraph cluster0_1 {
+		label="0,1"
+		battery0_1_0 [label="0,-1" pos="0.0,11.2!"]
+		battery0_1_2 [label="2,2" fillcolor=yellow pos="1.0,11.2!" style=filled]
+		battery0_1_4 [label="4,9" pos="0.0,10.2!"]
+	}
+	subgraph cluster4_3 {
+		label="4,3"
+		battery4_3_0 [label="0,-1" pos="11.2,5.6!"]
+		battery4_3_1 [label="1,4" pos="12.2,5.6!"]
+		battery4_3_2 [label="2,8" pos="13.2,5.6!"]
+		battery4_3_3 [label="3,3" fillcolor=yellow pos="11.2,4.6!" style=filled]
+		battery4_3_4 [label="4,7" pos="12.2,4.6!"]
+		battery4_3_6 [label="6,6" pos="13.2,4.6!"]
+	}
+	subgraph cluster2_4 {
+		label="2,4"
+		battery2_4_0 [label="0,-1" pos="5.6,2.8!"]
+		battery2_4_9 [label="9,5" fillcolor=green pos="6.6,2.8!" style=filled]
+	}
+	battery4_0_3 -> battery4_3_0 [label=5 color=red fillcolor=red]
+	battery4_0_3 -> battery4_0_1 [color="#00000055" fillcolor=none]
+	battery0_1_2 -> battery0_1_0 [color="#00000055" fillcolor=none]
+	battery0_1_4 -> battery0_1_2 [color="#00000055" fillcolor=none]
+	battery0_1_4 -> battery0_1_0 [color="#00000055" fillcolor=none]
+	battery4_3_3 -> battery4_0_0 [label=3 color=red fillcolor=red]
+	battery4_3_3 -> battery4_3_1 [color="#00000055" fillcolor=none]
+	battery4_3_6 -> battery4_0_3 [color="#00000055" fillcolor=none]
+	battery4_3_6 -> battery0_1_0 [label=7 color=red fillcolor=red]
+	battery4_3_6 -> battery4_3_4 [color="#00000055" fillcolor=none]
+	battery4_3_6 -> battery4_3_0 [color="#00000055" fillcolor=none]
+	battery4_3_4 -> battery4_0_1 [color="#00000055" fillcolor=none]
+	battery4_3_4 -> battery4_3_2 [color="#00000055" fillcolor=none]
+	battery4_3_4 -> battery4_3_0 [color="#00000055" fillcolor=none]
+	battery4_3_2 -> battery4_3_0 [color="#00000055" fillcolor=none]
+	battery2_4_9 -> battery4_3_6 [label=1 color=red fillcolor=red]
+	battery2_4_9 -> battery0_1_4 [color="#00000055" fillcolor=none]
+	battery2_4_9 -> battery4_0_3 [color="#00000055" fillcolor=none]
+	battery2_4_9 -> battery0_1_0 [color="#00000055" fillcolor=none]
+	battery2_4_9 -> battery4_3_0 [color="#00000055" fillcolor=none]
+	battery2_4_0 -> battery2_4_9 [label=0 color=orange fillcolor=orange]
+	battery4_3_6 -> battery4_3_3 [label=2 color=orange fillcolor=orange]
+	battery4_0_0 -> battery4_0_3 [label=4 color=orange fillcolor=orange]
+	battery4_3_0 -> battery4_3_6 [label=6 color=orange fillcolor=orange]
+	battery0_1_0 -> battery0_1_2 [label=8 color=orange fillcolor=orange]
+}

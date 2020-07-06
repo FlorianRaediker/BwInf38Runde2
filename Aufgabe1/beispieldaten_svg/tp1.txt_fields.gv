@@ -1,0 +1,7 @@
+digraph "tp1.txt_fields" {
+	compound=true
+	"0_0" [label="0,0
+ic: 5
+free: 1,0;None
+swlolw: none" fillcolor=green pos="0.0,2.8!" style=filled]
+}

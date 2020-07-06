@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="1103.0" version="1.1" width="1103.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="1100" stroke="#aaaaaa" stroke-width="3.0" width="1100" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="500" x2="500" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="600" x2="600" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="700" x2="700" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="800" x2="800" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="900" x2="900" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="1000" x2="1000" y1="0" y2="1100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="200" y2="200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="300" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="400" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="500" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="600" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="700" y2="700"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="800" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="900" y2="900"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="1100" y1="1000" y2="1000"/>
+    </g>
+    <circle cx="550.0" cy="550.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="516.6666666666666">5,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="16.666666666666664">0,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="116.66666666666666">0,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="216.66666666666666">0,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="316.6666666666667">0,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="416.6666666666667">0,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="516.6666666666666">0,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="616.6666666666666">0,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="716.6666666666666">0,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="816.6666666666666">0,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="916.6666666666666">0,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="1016.6666666666666">0,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="16.666666666666664">1,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="116.66666666666666">1,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="216.66666666666666">1,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="316.6666666666667">1,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="416.6666666666667">1,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="516.6666666666666">1,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="616.6666666666666">1,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="716.6666666666666">1,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="816.6666666666666">1,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="916.6666666666666">1,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="1016.6666666666666">1,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="16.666666666666664">2,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="116.66666666666666">2,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="216.66666666666666">2,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="316.6666666666667">2,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="416.6666666666667">2,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="516.6666666666666">2,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="616.6666666666666">2,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="716.6666666666666">2,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="816.6666666666666">2,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="916.6666666666666">2,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="1016.6666666666666">2,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="16.666666666666664">3,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="116.66666666666666">3,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="216.66666666666666">3,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="316.6666666666667">3,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="416.6666666666667">3,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="516.6666666666666">3,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="616.6666666666666">3,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="716.6666666666666">3,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="816.6666666666666">3,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="916.6666666666666">3,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="1016.6666666666666">3,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="16.666666666666664">4,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="116.66666666666666">4,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="216.66666666666666">4,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="316.6666666666667">4,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="416.6666666666667">4,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="516.6666666666666">4,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="616.6666666666666">4,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="716.6666666666666">4,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="816.6666666666666">4,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="916.6666666666666">4,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="1016.6666666666666">4,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="16.666666666666664">5,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="116.66666666666666">5,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="216.66666666666666">5,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="316.6666666666667">5,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="416.6666666666667">5,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="616.6666666666666">5,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="716.6666666666666">5,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="816.6666666666666">5,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="916.6666666666666">5,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="1016.6666666666666">5,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="16.666666666666664">6,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="116.66666666666666">6,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="216.66666666666666">6,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="316.6666666666667">6,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="416.6666666666667">6,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="516.6666666666666">6,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="616.6666666666666">6,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="716.6666666666666">6,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="816.6666666666666">6,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="916.6666666666666">6,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="650.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="630.0" y="1016.6666666666666">6,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="16.666666666666664">7,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="116.66666666666666">7,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="216.66666666666666">7,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="316.6666666666667">7,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="416.6666666666667">7,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="516.6666666666666">7,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="616.6666666666666">7,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="716.6666666666666">7,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="816.6666666666666">7,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="916.6666666666666">7,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="1016.6666666666666">7,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="16.666666666666664">8,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="116.66666666666666">8,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="216.66666666666666">8,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="316.6666666666667">8,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="416.6666666666667">8,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="516.6666666666666">8,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="616.6666666666666">8,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="716.6666666666666">8,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="816.6666666666666">8,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="916.6666666666666">8,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="1016.6666666666666">8,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="16.666666666666664">9,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="116.66666666666666">9,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="216.66666666666666">9,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="316.6666666666667">9,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="416.6666666666667">9,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="516.6666666666666">9,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="616.6666666666666">9,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="716.6666666666666">9,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="816.6666666666666">9,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="916.6666666666666">9,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="950.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="930.0" y="1016.6666666666666">9,10</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="50.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="16.666666666666664">10,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="116.66666666666666">10,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="250.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="216.66666666666666">10,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="350.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="316.6666666666667">10,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="450.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="416.6666666666667">10,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="550.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="516.6666666666666">10,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="650.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="616.6666666666666">10,6</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="716.6666666666666">10,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="850.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="816.6666666666666">10,8</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="950.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="916.6666666666666">10,9</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="1050.0" y="1050.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="1030.0" y="1016.6666666666666">10,10</text>
+    <polyline fill="none" points="538.7029659973427,571.8967839539529 567.1559173224166,473.10827594206637 532.7825932059342,366.0523346308636 526.7673908830088,242.518694641327 526.9304215058363,146.14531451044004 530.560790856793,35.909716331471266 452.2100669428108,60.1941031739905 325.1393258175261,31.01336895404146 274.74252771053676,36.214715838323855 149.3510401448513,31.689140263862356 51.82326519135799,74.80190216278271 36.83311494665678,129.56098989058117 173.81282452940673,168.6932711739787 269.87223041467325,173.65177970862692 354.40929863188404,162.61786044637617 433.88600289755465,160.12335562347022 454.2316602452696,252.89352099356353 342.7349924330273,244.36989370362284 265.3789214494634,259.20672827616966 155.663066952222,256.5532603644584 44.48053491047193,236.1164912480246 68.09455365002646,374.30458588650544 174.9901675745803,353.88741587152833 264.57130786746586,345.5769352982972 341.95953296257215,330.45921436848283 474.57092170239497,332.141793472308 461.46150073455294,471.5197541342866 344.57545547195167,427.5063807044178 229.1536516689896,472.8971933002182 144.35055628410313,436.5059773009014 31.705609974245853,462.9346886938069 52.210399025241486,536.8558512428913 127.18229434377494,563.3907963788855 225.46212976310719,561.5939428525754 374.71845116424834,540.0350608570283 460.51543284992874,560.6898455732941 459.51765107216136,659.6461714780893 365.61102762507534,638.0574704782064 255.73590324421707,630.3596147947324 148.59916073244358,641.6495481976499 69.57555636992834,625.0857442512391 51.5707166629652,726.2886057175926 157.82777645900836,761.1133543742523 260.7733042164618,729.2333609794316 370.0307904888931,753.0896568094921 474.26231183414836,730.9076923971467 542.9860407174463,749.2988130348976 535.1341240112897,636.8579212702052 626.064291364597,673.6487513186646 651.7318413933743,548.0320118033012 632.4957094390667,458.1309941050813 672.5342317697538,358.1588358564086 662.0017743555958,226.48739331307328 652.2125582284056,166.13134688478812 650.0520247726316,28.344942657664426 774.1245676693803,65.97112457011343 847.883231509604,68.35079134245419 946.2269430367581,70.1367777606905 1062.1964317273842,53.01719623627227 1054.4683956151032,143.967800180226 960.3396577747167,155.62064959819213 843.6035241791924,143.18069751021434 743.3517638577471,133.47367065335288 769.2801191831544,228.2035229685327 832.2258021694295,248.865095490089 945.8332986527397,269.8716359562463 1053.102406499582,255.215056158677 1036.7444123630382,339.01318615977965 968.8592197560773,365.48184116643546 864.0856772654328,339.1238729196713 769.3948596428539,364.85320869518176 747.7224557498499,444.82164313145694 844.4754406173225,453.9410090749273 964.7100352542784,436.6599441385592 1047.2134214033401,436.60681211767167 1031.2733486786256,557.2487361259994 956.1317345531818,528.4253691387385 842.2142096477514,563.4509432912347 726.785804672517,569.6929171902218 752.8826459800963,664.6217222066502 838.1818625348644,646.336901381489 932.5111450744233,659.2121829268343 1026.6296888196835,647.632369754584 1053.2573275379307,747.3607113350159 936.782125567344,738.6299872919801 870.5870345424303,732.0993128142699 772.960514002456,770.6705710364714 647.811975081612,769.7783044581331 652.2248750800104,862.330324019406 554.1070886693938,836.6410191709864 433.57635733265425,835.7678640052566 349.4920521568881,837.7170186359225 267.4402007150848,832.1004204856874 172.36352712218263,857.5933259413637 46.33173405909575,854.6486027069116 30.258993804302193,937.1923805246533 155.70824094638968,960.9935114633273 253.18640977272668,955.2271004365303 359.10680716372633,962.6271336948105 431.3140576766015,951.0597765269732 555.9749849020449,927.9184072605966 632.3330590105488,931.8882084630529 764.296235781364,967.0430192991482 753.3030541687212,844.5739396431164 864.0131659150018,862.4482606654121 949.5545941793076,842.4410390777315 1072.3642215074317,867.4613047470175 1035.9820261800662,955.2110433274695 935.0433138058394,927.8795452313271 855.0132095717897,965.4802154227875 851.8734777136259,1053.5879959397296 738.9273302053953,1039.505366306869 625.5772872645671,1029.095933889947 551.1885262453061,1030.222419056548 433.04683520574844,1053.4974557808198 351.9555329673547,1074.6266266241469 242.57108242127418,1037.963041515305 171.19234577181135,1052.0330976826046 39.0643677537621,1059.8476714712451 65.1271490951444,967.7610254473516 38.24003452006908,862.6272841393246 72.11861429311944,749.5580520259161 65.58145036919396,632.297517906247 73.08499458779134,559.6994926724658 56.30210419446058,461.7901936463722 47.47984952846673,350.26088787111075 72.85335822689062,249.4164610995354 34.099084120302535,151.00562774394717 46.196113733761166,62.18916539114633 142.96536011673356,55.07097581136581 245.41807513415165,45.48347459339914 336.3443827151672,41.44732343968484 469.9022796959627,32.23045832972987 527.7292139184217,58.81549234261152 629.1936011922305,56.979845539991445 754.8392645747292,62.055348738791096 832.9292147626453,67.22831927440666 972.0961443699778,30.667708660981816 1048.5018864131978,42.20625378614618 1052.9611128162082,151.40367686324709 950.1806090071382,130.1827598617054 842.4396493213848,131.55291430337203 761.3492516928186,153.12283744267808 649.5576225267334,170.41392932580314 540.8610809959371,149.7854566903721 456.03841519198147,148.74443685616058 352.586045026228,141.47829311192618 253.42601313778687,141.6960433367969 133.4237945850892,140.23850494427387 132.7416020210375,234.4577270315259 268.12086173268665,241.53862606104957 347.31842682128615,244.60300543542792 433.67812375708775,226.70149964895185 534.3521369476874,229.17802115441785 663.9923418545801,258.22115424002527 743.8450243681334,262.2817739508286 856.0203587416036,230.198232825668 954.3934269478464,240.2929007323943 1025.3741463144995,261.05904524068575 1033.0650118190892,359.6121586876844 931.9105302474582,336.5955526785732 860.5378143872724,366.43216916976826 728.7852579683341,344.6611900101132 645.8555326308557,336.796008642868 546.4532403400632,327.82646616173844 439.06575845317764,342.4463446531606 361.1350912139654,349.9238411027702 269.41119881320424,364.8924225239389 142.93801887355826,372.6857828777627 134.63289801010077,459.089805741954 249.89705980183015,433.4712836902241 337.9407688438071,453.0189814342487 442.8639570325094,464.247495291406 530.30366499588,465.1449567995745 670.5787185104286,456.9329860495076 769.7425057466793,462.51651411816715 840.1221619029988,438.01822841016326 936.3338903376231,435.15008773329913 1038.3067188189718,458.1169348758579 1068.1093454574002,539.1883851669388 947.0209363848788,529.9911006126044 858.5025459855365,533.8749813116124 771.917709542988,565.5828592725529 662.1012714761113,559.1447793743496 644.4115116014414,663.5440467233146 571.2501901026119,665.2767230493138 450.0801293706102,635.8289865765232 462.5775207163372,526.4352189602146 355.8316161593782,544.7695063241788 226.54520415364053,565.628262358692 134.98074943304238,570.4535425034463 137.90189381382186,657.3324680626914 259.4315616705175,628.1130757820325 347.5804185625868,661.261840716736 332.1892205858467,732.1410245193491 262.3974088880916,754.7886337939742 133.16493720151394,751.0031447860131 134.54899691114917,856.3985341148227 256.25995086353555,830.9795605460133 355.4382638981857,846.164259824317 435.6607975082265,831.3249056744686 443.26159134454304,735.4016398530349 557.5136226663491,752.0377599673069 640.135747829573,737.2670884835637 773.9713370964943,744.739098430395 755.0862089220651,669.1384185449874 866.8847855713232,657.663478536899 949.4857199791559,659.6654115743743 1072.8289735231117,641.895139973916 1031.359974773702,733.8569026764097 943.6240298402356,751.7776194407531 842.500714915659,773.2030315293237 825.443732117654,833.2429550365804 728.9499401989166,829.9831798474013 633.7207728904741,855.1845433458863 546.8825791615732,843.0754593612336 566.0100087015601,970.0115936776715 439.5190935928796,944.5683605432152 349.4712642539612,974.5821227886677 227.87135593319786,958.2968788899555 164.6615901643488,944.6466615162037 48.31627692054677,964.9347186379139 67.29312804988696,1029.8052949562054 142.4279616518602,1060.7458761276816 257.8988728590264,1068.539904043636 351.3327154113022,1037.0138710650767 427.5420772868362,1060.2315762979354 525.0447526079207,1074.527424361147 673.8837315891141,1073.1097017152535 629.7999027774378,962.2110304441331 746.0508843183616,931.2711383909046 846.1997473931651,943.5560173436094 962.7932856481277,941.5376699277901 933.559499979246,841.1758399803036 1053.8152521345658,843.9821922524143 1056.7495356693873,957.4965580734089 1067.1922702786344,1039.556083178664 926.9658577503234,1063.9896069257782 855.0177322835526,1073.1552490697131 752.610699719402,1038.9439222349658 861.6765351694867,1028.51653992371 933.1883079648682,1066.1450456460395 939.0896205184952,935.5711500614431" stroke="orange" stroke-width="3"/>
+  </g>
+</svg>

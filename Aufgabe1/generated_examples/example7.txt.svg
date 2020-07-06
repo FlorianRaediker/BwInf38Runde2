@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="403.0" version="1.1" width="903.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="400" stroke="#aaaaaa" stroke-width="3.0" width="900" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="500" x2="500" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="600" x2="600" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="700" x2="700" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="800" x2="800" y1="0" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="900" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="900" y1="200" y2="200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="900" y1="300" y2="300"/>
+    </g>
+    <circle cx="750.0" cy="50.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="750.0" y="50.0">1</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="730.0" y="16.666666666666664">7,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="850.0" y="50.0">9</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="830.0" y="16.666666666666664">8,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="150.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="116.66666666666666">2,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="116.66666666666666">1,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="250.0">9</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="216.66666666666666">2,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="50.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="16.666666666666664">1,0</text>
+  </g>
+</svg>

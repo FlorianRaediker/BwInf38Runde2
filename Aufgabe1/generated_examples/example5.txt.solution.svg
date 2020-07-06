@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="603.0" version="1.1" width="603.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="600" stroke="#aaaaaa" stroke-width="3.0" width="600" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="500" x2="500" y1="0" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="600" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="600" y1="200" y2="200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="600" y1="300" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="600" y1="400" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="600" y1="500" y2="500"/>
+    </g>
+    <circle cx="50.0" cy="350.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="350.0">6</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="316.6666666666667">0,3</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="550.0">6</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="516.6666666666666">4,5</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="150.0">3</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="116.66666666666666">4,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="250.0">3</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="216.66666666666666">2,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="116.66666666666666">2,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="50.0">1</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="16.666666666666664">1,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="50.0">1</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="16.666666666666664">2,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="50.0">1</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="16.666666666666664">3,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="50.0">4</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="16.666666666666664">4,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="350.0">4</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="316.6666666666667">5,3</text>
+    <polyline fill="none" points="63.002326013064334,360.0744639646722 34.381088719820276,273.84841619834583 155.69297199279137,262.67143364875517 226.86394635769045,270.7382265028867 247.4180021587274,170.59837168159697 230.50838905418408,73.16157573788792 131.26623799248003,64.20449866387105 253.50719120603605,46.43588254995146 357.61718266108517,68.94586896124352 463.4440442340517,48.03812385411615 427.99230307032354,145.6192059398407 372.33487147396096,165.69493508616048 268.7344266284346,129.35782239352915 242.42316629518115,237.0391651271628 261.47781049642214,135.74040524028678 256.54449661388,248.33493648267267 244.62950673264538,142.17826668863358 329.27713167536274,173.16232208347367 459.42828713460494,139.22481612655582 544.9540755421036,147.0920659467295 538.2213122745263,252.00268556135615 573.0850460630568,362.2962845720843 456.05124699148564,372.66497735291796 441.5491361631352,474.6715710909372 473.8165288434233,535.8610360448341 446.19661192593173,460.5037695941162 432.16534365495994,371.3817834645039 428.1888421241685,458.14105941743475 455.0942584849472,325.04499515477835 450.2795761890531,466.3171120444365 458.9654217075527,529.2651940836624 433.5064936294688,449.44642833513757" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="34.86515300414865,365.5399288911209 141.94697649624433,335.78412069446347 249.60633461099843,336.2770169208812 372.09542691743275,341.03426588780894 431.4086150730358,370.8063245380508 445.50323390988774,464.60497092043056 467.33903474330657,562.8575826465501 469.65796684248807,434.06447827311354 435.9837929082689,365.07449489829344 432.1348510366006,252.30177243005505 470.267987296952,161.6281735683242 435.0131170027369,249.36338695331858 353.9470102374012,273.48665018281685 259.2095019244082,272.41732350630275 335.8343611389275,241.61130347834046 460.65218841759526,256.2895472667311 438.5529200381799,154.3077774629529 365.63433287957196,169.69487762144985 234.37799941090424,134.27350529180674 127.69539110277461,128.6144058991863 163.93584963686578,65.90313632722254 240.7416822923409,44.66944494157758 357.62971911425626,28.56125156532473 447.9126945945779,50.83873288009016 570.7610936854545,60.802832606301905 539.5635763012913,133.74078527907176 572.4582790953818,240.90235901968447 528.7196050470426,366.52570831611456" stroke="seagreen" stroke-width="3"/>
+  </g>
+</svg>

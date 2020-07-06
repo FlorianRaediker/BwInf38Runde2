@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="803.0" version="1.1" width="803.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="800" stroke="#aaaaaa" stroke-width="3.0" width="800" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="500" x2="500" y1="0" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="600" x2="600" y1="0" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="700" x2="700" y1="0" y2="800"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="800" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="800" y1="200" y2="200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="800" y1="300" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="800" y1="400" y2="400"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="800" y1="500" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="800" y1="600" y2="600"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="800" y1="700" y2="700"/>
+    </g>
+    <circle cx="150.0" cy="250.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="150.0" y="250.0">11</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="130.0" y="216.66666666666666">1,2</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="350.0" y="150.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="330.0" y="116.66666666666666">3,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="550.0" y="750.0">5</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="716.6666666666666">5,7</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="750.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="716.6666666666666">0,7</text>
+    <circle cx="450.0" cy="150.0" fill="none" r="38.0" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="150.0" fill="none" r="32.061584710387415" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="150.0" fill="none" r="26.020918756208335" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="150.0" fill="none" r="20.956762218164705" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="150.0" fill="none" r="14.609933094067792" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="150.0" fill="none" r="9.538829035989751" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="150.0" fill="none" r="2.063931652713774" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="450.0" fill="none" r="38.0" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="450.0" fill="none" r="32.765418492749745" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="450.0" fill="none" r="27.29371545122163" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="450.0" fill="none" r="20.395658029144407" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="450.0" fill="none" r="14.423833942349816" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="450.0" fill="none" r="7.652762622858034" stroke="black" stroke-width="2.0"/>
+    <line stroke="black" stroke-width="2" x1="450.0" x2="450.0" y1="150.0" y2="450.0"/>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="416.6666666666667">4,4</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="116.66666666666666">4,1</text>
+    <circle cx="550.0" cy="450.0" fill="none" r="38.0" stroke="black" stroke-width="2.0"/>
+    <circle cx="550.0" cy="450.0" fill="none" r="31.212432418759775" stroke="black" stroke-width="2.0"/>
+    <circle cx="550.0" cy="450.0" fill="none" r="26.629075850215106" stroke="black" stroke-width="2.0"/>
+    <circle cx="550.0" cy="450.0" fill="none" r="21.445737797001712" stroke="black" stroke-width="2.0"/>
+    <circle cx="550.0" cy="450.0" fill="none" r="15.460625391768271" stroke="black" stroke-width="2.0"/>
+    <circle cx="550.0" cy="450.0" fill="none" r="7.974547252147579" stroke="black" stroke-width="2.0"/>
+    <circle cx="550.0" cy="450.0" fill="none" r="0.8946861633717944" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="750.0" fill="none" r="38.0" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="750.0" fill="none" r="31.849595836614185" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="750.0" fill="none" r="25.537133499780587" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="750.0" fill="none" r="19.8680920185658" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="750.0" fill="none" r="12.647618761482558" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="750.0" fill="none" r="7.619351180075484" stroke="black" stroke-width="2.0"/>
+    <circle cx="450.0" cy="750.0" fill="none" r="2.3230631192244156" stroke="black" stroke-width="2.0"/>
+    <line stroke="black" stroke-width="2" x1="550.0" x2="450.0" y1="450.0" y2="750.0"/>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="716.6666666666666">4,7</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="530.0" y="416.6666666666667">5,4</text>
+    <polyline fill="none" points="155.47027745088505,264.29321501636394 167.16606769020234,128.39502780060758 234.93624694267527,138.9641144501936 330.52250024940616,155.53288165563896 456.46728602655594,159.67650617496173" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="456.46728602655594,159.67650617496173 444.9749361009689,470.96978626782146" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="444.9749361009689,470.96978626782146 550.8936242185487,460.96753937219154" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="550.8936242185487,460.96753937219154 452.06410624829994,730.5653320735809" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="452.06410624829994,730.5653320735809 546.946416165676,736.1921838541322 452.91450179307805,749.6302441181289" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="452.91450179307805,749.6302441181289 568.2623384012163,440.8506220379486" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="568.2623384012163,440.8506220379486 445.028298803581,467.70122645295214" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="445.028298803581,467.70122645295214 453.42525225669567,166.1682940131756" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="453.42525225669567,166.1682940131756 335.33720768725436,136.51296591983515 466.42574231116004,171.85896070415396" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="466.42574231116004,171.85896070415396 437.6202154912645,469.30657350378624" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="437.6202154912645,469.30657350378624 558.4304719178859,436.20755435317653" stroke="orange" stroke-width="3"/>
+    <polyline fill="none" points="558.4304719178859,436.20755435317653 439.6204501331725,769.7247868372393" stroke="purple" stroke-dasharray="5,5" stroke-width="2"/>
+    <polyline fill="none" points="439.6204501331725,769.7247868372393 351.5868760754992,732.9604724811855 246.54551658273363,745.9122656035012 126.34850418349603,725.3363579771593 36.90760138556928,740.2788107680582 69.82356734644002,651.5478715961689 72.46357609153938,526.005678292981" stroke="orange" stroke-width="3"/>
+  </g>
+</svg>

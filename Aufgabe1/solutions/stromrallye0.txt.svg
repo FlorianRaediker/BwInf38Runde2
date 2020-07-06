@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="503.0" version="1.1" width="503.0">
+  <defs/>
+  <g transform="translate(1.5,1.5)">
+    <g>
+      <rect fill="none" height="500" stroke="#aaaaaa" stroke-width="3.0" width="500" x="0" y="0"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="100" x2="100" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="200" x2="200" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="300" x2="300" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="400" x2="400" y1="0" y2="500"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="500" y1="100" y2="100"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="500" y1="200" y2="200"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="500" y1="300" y2="300"/>
+      <line stroke="#aaaaaa" stroke-width="3.0" x1="0" x2="500" y1="400" y2="400"/>
+    </g>
+    <circle cx="250.0" cy="450.0" fill="green" r="44.0"/>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="250.0" y="450.0">9</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="230.0" y="416.6666666666667">2,4</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="50.0">3</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="16.666666666666664">4,0</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="50.0" y="150.0">2</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="30.0" y="116.66666666666666">0,1</text>
+    <text alignment-baseline="central" font-size="40" text-anchor="middle" x="450.0" y="350.0">3</text>
+    <text alignment-baseline="central" fill="#777777" font-size="20" text-anchor="middle" x="430.0" y="316.6666666666667">4,3</text>
+    <polyline fill="none" points="256.3144912240495,445.17093084054716 274.703593308469,334.5180364129513 348.9881207861879,335.56138629462674 438.48657608667213,341.27925412496626 445.09197717646003,257.23736472594544 470.18580228990083,169.2108274678383 427.94995251852237,58.3408408091197 441.2875730220396,138.47344253599124 469.45182090639236,235.11924661621424 439.77758449526783,371.765120250853 456.11181508374125,240.80104304781963 460.330108957144,155.03543468164156 360.4027785262121,143.46433281690867 266.2463038525764,142.98858509662773 138.488279985155,127.45983110080056 42.4854850285882,163.40626167365883 68.88785079314177,54.45836374105028 173.30303886684743,31.17346883378262" stroke="orange" stroke-width="3"/>
+  </g>
+</svg>

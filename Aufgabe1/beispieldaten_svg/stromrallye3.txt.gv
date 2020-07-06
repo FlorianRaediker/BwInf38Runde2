@@ -1,0 +1,63 @@
+digraph "stromrallye3.txt" {
+	compound=true
+	subgraph cluster5_3 {
+		label="5,3"
+		battery5_3_0 [label="0,-1" pos="14.0,30.799999999999997!"]
+		battery5_3_1 [label="1,8" pos="15.0,30.799999999999997!"]
+		battery5_3_2 [label="2,2" pos="16.0,30.799999999999997!"]
+		battery5_3_3 [label="3,10" pos="14.0,29.799999999999997!"]
+		battery5_3_4 [label="4,0" fillcolor=yellow pos="15.0,29.799999999999997!" style=filled]
+		battery5_3_5 [label="5,14" pos="16.0,29.799999999999997!"]
+	}
+	subgraph cluster4_11 {
+		label="4,11"
+		battery4_11_0 [label="0,-1" pos="11.2,8.399999999999999!"]
+		battery4_11_2 [label="2,7" pos="12.2,8.399999999999999!"]
+		battery4_11_4 [label="4,6" pos="13.2,8.399999999999999!"]
+		battery4_11_6 [label="6,5" pos="11.2,7.399999999999999!"]
+		battery4_11_8 [label="8,4" pos="12.2,7.399999999999999!"]
+		battery4_11_10 [label="10,3" fillcolor=yellow pos="13.2,7.399999999999999!" style=filled]
+	}
+	subgraph cluster5_1 {
+		label="5,1"
+		battery5_1_0 [label="0,-1" pos="14.0,36.4!"]
+		battery5_1_1 [label="1,11" pos="15.0,36.4!"]
+		battery5_1_2 [label="2,1" pos="16.0,36.4!"]
+		battery5_1_3 [label="3,12" pos="14.0,35.4!"]
+		battery5_1_5 [label="5,9" fillcolor=yellow pos="15.0,35.4!" style=filled]
+	}
+	subgraph cluster2_4 {
+		label="2,4"
+		battery2_4_0 [label="0,-1" pos="5.6,28.0!"]
+		battery2_4_9 [label="9,13" fillcolor=green pos="6.6,28.0!" style=filled]
+	}
+	battery5_3_4 -> battery5_1_2 [color="#00000055" fillcolor=none]
+	battery5_3_4 -> battery5_1_0 [color="#00000055" fillcolor=none]
+	battery5_3_4 -> battery5_3_2 [color="#00000055" fillcolor=none]
+	battery5_3_4 -> battery5_3_0 [color="#00000055" fillcolor=none]
+	battery5_3_2 -> battery5_1_0 [color="#00000055" fillcolor=none]
+	battery5_3_2 -> battery5_3_0 [color="#00000055" fillcolor=none]
+	battery5_3_3 -> battery5_1_1 [color="#00000055" fillcolor=none]
+	battery5_3_3 -> battery5_3_1 [color="#00000055" fillcolor=none]
+	battery5_3_5 -> battery5_1_3 [color="#00000055" fillcolor=none]
+	battery5_3_5 -> battery5_3_3 [color="#00000055" fillcolor=none]
+	battery4_11_10 -> battery5_3_1 [color="#00000055" fillcolor=none]
+	battery4_11_10 -> battery4_11_8 [color="#00000055" fillcolor=none]
+	battery4_11_10 -> battery4_11_0 [color="#00000055" fillcolor=none]
+	battery4_11_8 -> battery4_11_6 [color="#00000055" fillcolor=none]
+	battery4_11_8 -> battery4_11_0 [color="#00000055" fillcolor=none]
+	battery4_11_6 -> battery4_11_4 [color="#00000055" fillcolor=none]
+	battery4_11_6 -> battery4_11_0 [color="#00000055" fillcolor=none]
+	battery4_11_4 -> battery4_11_2 [color="#00000055" fillcolor=none]
+	battery4_11_4 -> battery4_11_0 [color="#00000055" fillcolor=none]
+	battery4_11_2 -> battery4_11_0 [color="#00000055" fillcolor=none]
+	battery5_1_2 -> battery5_3_0 [color="#00000055" fillcolor=none]
+	battery5_1_2 -> battery5_1_0 [color="#00000055" fillcolor=none]
+	battery5_1_5 -> battery5_3_3 [color="#00000055" fillcolor=none]
+	battery5_1_5 -> battery5_1_3 [color="#00000055" fillcolor=none]
+	battery5_1_3 -> battery5_3_1 [color="#00000055" fillcolor=none]
+	battery5_1_3 -> battery5_1_1 [color="#00000055" fillcolor=none]
+	battery2_4_9 -> battery5_3_5 [color="#00000055" fillcolor=none]
+	battery2_4_9 -> battery5_1_3 [color="#00000055" fillcolor=none]
+	battery2_4_9 -> battery4_11_0 [color="#00000055" fillcolor=none]
+}

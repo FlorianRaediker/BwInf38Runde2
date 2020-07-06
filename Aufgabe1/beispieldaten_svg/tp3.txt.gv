@@ -1,0 +1,70 @@
+digraph "tp3.txt" {
+	compound=true
+	subgraph cluster6_1 {
+		label="6,1"
+		battery6_1_0 [label="0,-1" pos="16.799999999999997,22.4!"]
+		battery6_1_1 [label="1,1" pos="17.799999999999997,22.4!"]
+		battery6_1_2 [label="2,14" pos="18.799999999999997,22.4!"]
+		battery6_1_3 [label="3,0" fillcolor=yellow pos="16.799999999999997,21.4!" style=filled]
+		battery6_1_4 [label="4,13" pos="17.799999999999997,21.4!"]
+		battery6_1_5 [label="5,9" pos="18.799999999999997,21.4!"]
+	}
+	subgraph cluster6_6 {
+		label="6,6"
+		battery6_6_0 [label="0,-1" pos="16.799999999999997,8.399999999999999!"]
+		battery6_6_1 [label="1,8" pos="17.799999999999997,8.399999999999999!"]
+		battery6_6_2 [label="2,3" pos="16.799999999999997,7.399999999999999!"]
+		battery6_6_4 [label="4,2" fillcolor=yellow pos="17.799999999999997,7.399999999999999!" style=filled]
+	}
+	subgraph cluster2_7 {
+		label="2,7"
+		battery2_7_0 [label="0,-1" pos="5.6,5.6!"]
+		battery2_7_1 [label="1,12" pos="6.6,5.6!"]
+		battery2_7_2 [label="2,4" fillcolor=yellow pos="7.6,5.6!" style=filled]
+		battery2_7_3 [label="3,11" pos="5.6,4.6!"]
+		battery2_7_4 [label="4,7" pos="6.6,4.6!"]
+		battery2_7_5 [label="5,10" pos="7.6,4.6!"]
+		battery2_7_6 [label="6,6" pos="5.6,3.5999999999999996!"]
+	}
+	subgraph cluster2_2 {
+		label="2,2"
+		battery2_2_0 [label="0,-1" pos="5.6,19.599999999999998!"]
+		battery2_2_10 [label="10,5" fillcolor=green pos="6.6,19.599999999999998!" style=filled]
+	}
+	battery6_1_3 -> battery6_1_1 [color="#00000055" fillcolor=none]
+	battery6_1_5 -> battery6_6_0 [color="#00000055" fillcolor=none]
+	battery6_1_5 -> battery6_6_1 [color="#00000055" fillcolor=none]
+	battery6_1_5 -> battery6_1_3 [color="#00000055" fillcolor=none]
+	battery6_1_4 -> battery6_6_0 [color="#00000055" fillcolor=none]
+	battery6_1_4 -> battery6_1_2 [color="#00000055" fillcolor=none]
+	battery6_1_4 -> battery6_1_0 [color="#00000055" fillcolor=none]
+	battery6_1_2 -> battery6_1_0 [color="#00000055" fillcolor=none]
+	battery6_6_4 -> battery6_1_0 [label=7 color=red fillcolor=red]
+	battery6_6_4 -> battery6_6_2 [color="#00000055" fillcolor=none]
+	battery6_6_4 -> battery6_6_0 [color="#00000055" fillcolor=none]
+	battery6_6_2 -> battery6_6_0 [color="#00000055" fillcolor=none]
+	battery2_7_2 -> battery2_7_0 [label=3 color=red fillcolor=red]
+	battery2_7_6 -> battery6_6_0 [label=5 color=red fillcolor=red]
+	battery2_7_6 -> battery6_6_1 [color="#00000055" fillcolor=none]
+	battery2_7_6 -> battery2_7_4 [color="#00000055" fillcolor=none]
+	battery2_7_6 -> battery2_7_0 [color="#00000055" fillcolor=none]
+	battery2_7_4 -> battery2_7_2 [color="#00000055" fillcolor=none]
+	battery2_7_4 -> battery2_7_0 [color="#00000055" fillcolor=none]
+	battery2_7_5 -> battery6_6_0 [color="#00000055" fillcolor=none]
+	battery2_7_5 -> battery2_7_3 [color="#00000055" fillcolor=none]
+	battery2_7_3 -> battery2_7_1 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery2_7_6 [label=1 color=red fillcolor=red]
+	battery2_2_10 -> battery6_1_5 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery2_7_5 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery6_1_4 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery6_6_2 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery6_6_0 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery6_1_0 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery2_7_0 [color="#00000055" fillcolor=none]
+	battery2_2_10 -> battery6_6_1 [color="#00000055" fillcolor=none]
+	battery2_2_0 -> battery2_2_10 [label=0 color=orange fillcolor=orange]
+	battery2_7_6 -> battery2_7_2 [label=2 color=orange fillcolor=orange]
+	battery2_7_0 -> battery2_7_6 [label=4 color=orange fillcolor=orange]
+	battery6_6_0 -> battery6_6_4 [label=6 color=orange fillcolor=orange]
+	battery6_1_0 -> battery6_1_3 [label=8 color=orange fillcolor=orange]
+}
